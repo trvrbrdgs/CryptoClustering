@@ -1,2 +1,2 @@
 # CryptoClustering
-Cram time
+Analysis of Cryptocurrency
